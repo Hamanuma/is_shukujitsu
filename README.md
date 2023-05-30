@@ -1,6 +1,6 @@
 # 日本の祝日判定処処理
 ## 使い方
-`git clone `
+`git clone https://github.com/Hamanuma/is_shukujitsu.git`
 
 import  
 `from shukujitsu import SyukujitsuApi`  
